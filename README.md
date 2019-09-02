@@ -1,4 +1,4 @@
-## echarts实现北京西城区地图Demo
+## echarts实现中国所有城市及区县Demo
 
 ![image login](https://github.com/zhangqian00/echarts-map-xicheng/blob/master/img/demo11.png)
 
